@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アブナイキオク",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2025-12-10T13:40:57.428997Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アブナイキオク",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_アブナイキオク_鈴木_雅之.txt"
+    }
+  ]
+}
